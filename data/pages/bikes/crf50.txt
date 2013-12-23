@@ -1,0 +1,18 @@
+===== Honda CRF50 =====
+{{bikes:crf50stock_438x267.jpg}}
+
+|< 100% 175px - >|
+^Owner | Napalm |
+^Year | 2006 |
+^CC | 50 |
+^Transmission | Semi-Auto |
+^Gear Pattern | N-1-2-3 upshift |
+^Frame | Stock |
+^Swingarm | Stock |
+^Forks | SDG Long-Travel Fork Kit |
+^Shock | BBR Heavy Duty Spring |
+^Rear Suspension | Stock |
+^Rev Box | BBR CRF50 Performance Rev Box |
+^Front Brakes | Disc Brakes (Aftermarket) |
+^Rear Brakes | Drum Brakes (Stock) |
+^Rear Stunt Pegs | 50 Stunt |

@@ -1,0 +1,4 @@
+===== Photos =====
+==== Miscellaneous ====
+
+{{gallery> :galleries:photos:misc }}

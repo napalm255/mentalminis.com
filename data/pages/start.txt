@@ -1,0 +1,6 @@
+======= Mental Minis =======
+
+^  Proud users of...  ^^^
+|  [[http://gopro.com/|{{gopro-hero3-white_200.png}}]]  |  [[http://www.sports-vue.com|{{bullet-black_200.png}}]]  |  [[http://www.sdgusa.com|{{sdg-logo_200.png}}]]  |
+|  [[http://www.hjchelmets.com|{{hjc-logo_200.png}}]]  |  [[http://www.foxhead.com|{{fox-logo_200.png}}]] |  [[http://www.bbrmotorsports.com|{{bbr-logo_200.png}}]]  |
+|  [[http://www.powersports.honda.com/offroad/trail.aspx|{{honda-wing_200.png}}]]  |  [[http://www.pitsterpro.com|{{pitsterpro-logo_200.png}}]]  |  [[http://www.bajamotorsports.com|{{baja-logo.gif}}]]  |

@@ -1,0 +1,6 @@
+===== Photos =====
+{{gallery> :galleries:photos?norecursive }}
+
+==== Categories ====
+  * [[galleries:photos:misc|Miscellaneous]]
+  * [[galleries:photos:2012-nov-10|2012-Nov-10]]

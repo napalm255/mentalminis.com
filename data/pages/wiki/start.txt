@@ -1,0 +1,9 @@
+===== Wiki =====
+
+  * [[wiki:links|Links]]
+
+  * [[wiki:info|Information]]
+
+  * [[wiki:howto|How-To Guides]]
+
+  * [[wiki:syntax|Wiki Syntax]]
